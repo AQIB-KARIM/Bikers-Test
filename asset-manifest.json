@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Bikers-Test/static/css/main.1b5128e0.css",
+    "main.js": "/Bikers-Test/static/js/main.6e7e9bff.js",
+    "static/js/787.66975ca6.chunk.js": "/Bikers-Test/static/js/787.66975ca6.chunk.js",
+    "static/media/Bikers-1-22.png": "/Bikers-Test/static/media/Bikers-1-22.6fe9f38e76b188510ade.png",
+    "static/media/Bikers-1-13.png": "/Bikers-Test/static/media/Bikers-1-13.7953835956362e92f14b.png",
+    "static/media/Bikers-1-34.png": "/Bikers-Test/static/media/Bikers-1-34.7e446f977b4a0b2e43f7.png",
+    "static/media/Bikers-1-30.png": "/Bikers-Test/static/media/Bikers-1-30.561cdcc52c0115c42846.png",
+    "static/media/Bikers-1-27.png": "/Bikers-Test/static/media/Bikers-1-27.65730fd378c1d538ea1b.png",
+    "static/media/Bikers-1-29.png": "/Bikers-Test/static/media/Bikers-1-29.d6ffec32283d781cd978.png",
+    "static/media/Bikers-1-17.png": "/Bikers-Test/static/media/Bikers-1-17.23bfce64bddecde844ab.png",
+    "static/media/Bikers-1-35.png": "/Bikers-Test/static/media/Bikers-1-35.209cd51981ee3a03d372.png",
+    "static/media/Bikers-1-32.png": "/Bikers-Test/static/media/Bikers-1-32.58fae791725a75ae2d68.png",
+    "static/media/Bikers-1-21.png": "/Bikers-Test/static/media/Bikers-1-21.ad6110f1fe5866eb0f50.png",
+    "static/media/Bikers-1-31.png": "/Bikers-Test/static/media/Bikers-1-31.ef3618aa0d5decf7a24a.png",
+    "static/media/Bikers-1-20.png": "/Bikers-Test/static/media/Bikers-1-20.7094c7d47fc825a71c92.png",
+    "static/media/icon-01.png": "/Bikers-Test/static/media/icon-01.c621df54615ed51b50d8.png",
+    "static/media/Bikers-1-15.png": "/Bikers-Test/static/media/Bikers-1-15.105c4d01f3e1d30fb12a.png",
+    "static/media/Bikers-1-19.png": "/Bikers-Test/static/media/Bikers-1-19.bbb3e8503fe6e35d9e96.png",
+    "static/media/Bikers-1-28.png": "/Bikers-Test/static/media/Bikers-1-28.8bf3ab1967a7b021486b.png",
+    "static/media/Bikers-1-33.png": "/Bikers-Test/static/media/Bikers-1-33.711f7071db85cffaedc8.png",
+    "static/media/Bikers-1-18.png": "/Bikers-Test/static/media/Bikers-1-18.f9ad1854d11c9cda3c56.png",
+    "static/media/Bikers-1-23.png": "/Bikers-Test/static/media/Bikers-1-23.0cab83b16747bbefb364.png",
+    "static/media/Bikers-1-24.png": "/Bikers-Test/static/media/Bikers-1-24.1cc641b93d860d7cfc0d.png",
+    "static/media/Bikers-1-16.png": "/Bikers-Test/static/media/Bikers-1-16.0a1dc0cdab90f68fb128.png",
+    "static/media/Bikers-1-14.png": "/Bikers-Test/static/media/Bikers-1-14.bbabd5760f3ebddfd3af.png",
+    "static/media/Bikers-1-12.png": "/Bikers-Test/static/media/Bikers-1-12.bc0cc7274c594d286c08.png",
+    "static/media/background-biker.jpg": "/Bikers-Test/static/media/background-biker.254aaa7e3d0a495a1044.jpg",
+    "static/media/Bikers-1-26.png": "/Bikers-Test/static/media/Bikers-1-26.06db31ce9a484177b54f.png",
+    "static/media/Bikers-1-03.png": "/Bikers-Test/static/media/Bikers-1-03.bee7ae0a7e2cd650eb54.png",
+    "static/media/Bikers-1-25.png": "/Bikers-Test/static/media/Bikers-1-25.7c8c4883b7ff1a358d0d.png",
+    "index.html": "/Bikers-Test/index.html",
+    "main.1b5128e0.css.map": "/Bikers-Test/static/css/main.1b5128e0.css.map",
+    "main.6e7e9bff.js.map": "/Bikers-Test/static/js/main.6e7e9bff.js.map",
+    "787.66975ca6.chunk.js.map": "/Bikers-Test/static/js/787.66975ca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5128e0.css",
+    "static/js/main.6e7e9bff.js"
+  ]
+}
